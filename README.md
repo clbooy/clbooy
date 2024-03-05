@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clbooy
-- 👀 I’m interested in js,server and web
+- 👀 I’m interested in c++
 - 🌱 I’m currently learning: none
 - 💞️ I’m looking to collaborate on: none
 - 📫 How to reach me: how46240@gmail.com
